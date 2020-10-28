@@ -20,12 +20,12 @@ Description: Online Ecommerce Website
 ![Capture2](https://user-images.githubusercontent.com/58256205/97467758-ce077d80-1944-11eb-9685-a7ed6b4fc264.PNG)
 
 
-<h4> Main Page View </h4>
+<h4> Checkout Page View </h4>
 
 ![Capture3](https://user-images.githubusercontent.com/58256205/97467775-d2339b00-1944-11eb-8488-d0df13e2e470.PNG)
 
 
-<h4> Checkout Page View </h4>
+<h4> ProductView </h4>
 
 ![ProductView](https://user-images.githubusercontent.com/58256205/97467953-060ec080-1945-11eb-9f4a-81ef74958c50.PNG)
 
